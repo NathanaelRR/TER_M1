@@ -5,3 +5,27 @@ Ce projet est réalisé au seins de nos études du Master 1 Informatique et Cogn
 Ce projet a pour but de réaliser une interface graphique spécifique aux tableaux de variations sur le logiciel qui aide à la preuve mathematique.
 
 Vous trouverez toutes les informations necessaires de ce projet dans notre [wiki](https://github.com/NathanaelRR/TER_M1/wiki). 
+
+### 1. Téléchargement
+- Téléchargez le dossier contenant les fichiers du logiciel depuis le dépôt git en suivant ce chemin :  
+  `TER_Mathon/Prototype_tabvar/src`
+
+### 2. Décompression
+- Décompressez le dossier téléchargé dans l'emplacement désiré sur votre système.
+
+### 3. Accès au logiciel
+- Accédez au logiciel en ouvrant le fichier `interface.html` dans votre navigateur web.
+
+> ⚠️ Assurez-vous d’avoir tous les fichiers dans votre répertoire, sans quoi le programme ne fonctionnera pas correctement.
+
+## Fichiers nécessaires
+Il y a huit fichiers au total :
+
+- `interface.html`
+- `styles.css`
+- `gestion_tab.js`
+- `verif_tab.js`
+- `gestion_zone_texte.js`
+- `gestion_aide.js`
+- `tabvar.js`
+- `tabvar-addons.js`
