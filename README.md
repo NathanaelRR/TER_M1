@@ -1,10 +1,13 @@
-# Implementation-et-evaluation-d-une-interface-pour-l-enseignement-de-la-preuve-mathematique
+# Implementation et evaluation d'une interface web pour l'enseignement de la preuve mathematique
 
+## Résumé
 Ce projet est réalisé au seins de nos études du Master 1 Informatique et Cognition MIASHS à l'UGA, dans le cadre de l'UE TER.
-
 Ce projet a pour but de réaliser une interface graphique spécifique aux tableaux de variations sur le logiciel qui aide à la preuve mathematique.
+Plus précisément, nous avons concentré nos efforts sur la représentation des tableaux de variation, combinant harmonieusement la partie assistant de preuve avec l’interface utilisateur.
 
-Vous trouverez toutes les informations necessaires de ce projet dans notre [wiki](https://github.com/NathanaelRR/TER_M1/wiki). 
+## Membre du groupe
+Tristan Mathon
+Nathanaël Rasoamanana
 
 ### 1. Téléchargement
 - Téléchargez le dossier contenant les fichiers du logiciel depuis le dépôt git en suivant ce chemin :  
