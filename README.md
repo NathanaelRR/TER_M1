@@ -1,4 +1,4 @@
-# Implementation et evaluation d'une interface web pour l'enseignement de la preuve mathematique
+# Implementation et evaluation d'une interface web pour l'enseignement de la preuve mathématique
 
 ## Résumé
 Ce projet est réalisé au seins de nos études du Master 1 Informatique et Cognition MIASHS à l'UGA, dans le cadre de l'UE TER.
